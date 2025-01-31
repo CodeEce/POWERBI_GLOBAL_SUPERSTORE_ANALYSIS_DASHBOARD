@@ -76,24 +76,10 @@ Analyze sales and profit performance across various dimensions, focusing on prod
 
 ---
 
-## How to Use
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/global-super-store-analysis.git
-   ```
-2. **Install Dependencies**:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. **Run the Analysis Script**:
-   ```bash
-   python analysis.py
-   ```
+
 
 ## Author
-Vinothini
+Vinothini M
 
-## Acknowledgments
-- Data sourced from Kaggle.
-- Analysis techniques inspired by EDA best practices.
+
 
